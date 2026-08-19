@@ -1,0 +1,29 @@
+# Never commit or package Nine Parchments game files.
+*.exe
+*.dll
+*.original
+*.pdb
+*.dmp
+nineparchments_64bit.exe*
+
+# Local reverse-engineering dependencies and generated output.
+vendor/
+.build-venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.py[cod]
+
+# Experimental development scripts are intentionally not part of releases.
+candidate_manager.py
+diagnostic_manager.py
+mod_manager.py
+route_diagnostic.py
+tools/
+
+# Editor and OS files.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
