@@ -2,7 +2,8 @@
 
 This version-locked Windows Steam mod prevents health damage between two
 different player characters. It also suppresses the player-to-player hit
-reaction and floating damage numbers.
+reaction and floating damage numbers. This makes playing with inexperienced
+gamers, such as my kids way more fun. 
 
 This is an unofficial fan-made mod. It is not affiliated with or endorsed by
 Frozenbyte. Nine Parchments and its game files are the property of their
