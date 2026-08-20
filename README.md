@@ -1,4 +1,4 @@
-# Nine Parchments — No Friendly Fire
+# Nine Parchments - No Friendly Fire
 
 This version-locked Windows Steam mod prevents health damage between two
 different player characters. It also suppresses the player-to-player hit
